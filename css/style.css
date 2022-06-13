@@ -13,7 +13,7 @@ h1{
 .menu{
     list-style: none;
     color: black;
-    background-color: rgb(207, 199, 199);
+    background: linear-gradient(to bottom right, rgb(65, 55, 55), rgb(207, 199, 199));
     padding: 15px;
 }
 li{
