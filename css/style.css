@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(249, 242, 237);
+    margin: 10px;
+}
+
+h1{
+    color: rgb(249, 250, 248);
+    background: linear-gradient(to bottom right, rgb(65, 55, 55), rgb(207, 199, 199));
+    padding: 20px;
+    
+
+ }
+.menu{
+    list-style: none;
+    color: black;
+    background-color: rgb(207, 199, 199);
+    padding: 15px;
+}
+li{
+    list-style: none;
+    display: inline;
+    margin: 10px;
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+}
+h4{
+    background-color: rgb(207, 199, 199);
+    position: absolute;
+    left: 900px;
+    bottom: 120px;
+    width: 300;
+    height: 200;
+    padding: 20px;
+}
+img{
+    width: 700px;
+    height: 500px;
+}
+.inline-block{
+    display: inline-block;
+}
+.titulosecundario{
+    margin: 40px;
+}
+tr{
+    background-color: rgb(207, 199, 199);
+    
+}
+th{
+    margin: 10px;
+    padding: 20px;
+}
+.parrafonuestro{
+    font-size: 20px;
+}
+.textcontact{
+    font-size: 20px;
+}
+footer{
+    background-color: rgb(207, 199, 199);
+    margin: 100px 0px 5px 0px;
+    padding: 10px;
+
+}
